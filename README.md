@@ -8,6 +8,7 @@ pip install pygame
 pip install random
 ```
 *What?You didn't have pip?*
+
 and to run, use:
 ```shell
 python main.py
